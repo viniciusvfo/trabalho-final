@@ -1,0 +1,84 @@
+.minha-coluna1 {
+    height: 599px;
+
+    background-color: rgb(8, 97, 8);
+    
+    
+    
+}
+
+.minha-logo{   
+   justify-content: center; 
+   align-items: center;
+   display: flex;
+}
+
+.minha-coluna2 {
+    height: 50px;
+    background-color: rgb(212, 212, 236);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+    
+    
+}
+
+.coluna-4 {
+    border: 1px ;
+    height: 50px;
+    background-color: rgb(212, 212, 236);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+
+}
+.minha-coluna3 {
+    border: 1px ;
+    height: 50px;
+    background-color: rgb(212, 212, 236);
+    align-items: center;
+    justify-content: center;
+    display: flex;   
+    
+}
+.minha-coluna4 {
+    border: 1px ;
+    height: 400px;
+    background-color: gray;
+    align-items: center;
+    justify-content: right;
+    display: flex;
+    
+    
+    
+}
+.minha-coluna5 {
+    border: 1px ;
+    height: 400px;
+    background-color: palevioletred;
+    align-items: center;
+    justify-content: left;
+    display: flex;
+    
+    
+    
+}
+.minha-coluna6 {
+    border: 1px ;
+    height: 200px;
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+    
+    
+}
+
+.minha-coluna-icons {
+    border: 1px ;
+    height: 100px;
+    background-color: rgb(212, 212, 236);
+}
