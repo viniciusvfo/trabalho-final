@@ -17,7 +17,7 @@ body{
     border-radius: 10px;
     background-color: white;
     padding: 20px;
-    margin: 10px;
+    margin: 1px;
 }
 .plano-nome{
     color:green;
@@ -85,8 +85,8 @@ body{
 }
 
 .botao { 
-    padding-bottom: 2%;
-    padding-top: 3%;
+    padding-bottom: 5%;
+    padding-top: 5%;
     text-align: center;
 }
 .botao1 { 
